@@ -1,0 +1,11 @@
+/home/rpi/projects/guessing_game/target/debug/deps/getrandom-50ff3d0a5cbef3d6.rmeta: /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs
+
+/home/rpi/projects/guessing_game/target/debug/deps/getrandom-50ff3d0a5cbef3d6.d: /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs /home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs
+
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/lib.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/error_impls.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/util_libc.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/use_file.rs:
+/home/rpi/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.4/src/linux_android.rs:
